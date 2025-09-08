@@ -58,16 +58,18 @@ export default function App() {
     }
   ];
 
+
 const portfolioImages = [
-  "/src/assets/portfolio/img1.jpeg",
-  "/src/assets/portfolio/img2.jpeg",
-  "/src/assets/portfolio/img3.jpeg",
-  "/src/assets/portfolio/img4.jpeg",
-  "/src/assets/portfolio/img5.jpeg",
-  "/src/assets/portfolio/img6.jpeg",
-  "/src/assets/portfolio/img7.jpeg",
-  "/src/assets/portfolio/img8.png",
+  "/portfolio/img1.jpeg",
+  "/portfolio/img2.jpeg",
+  "/portfolio/img3.jpeg",
+  "/portfolio/img4.jpeg",
+  "/portfolio/img5.jpeg",
+  "/portfolio/img6.jpeg",
+  "/portfolio/img7.jpeg",
+  "/portfolio/img8.png",
 ];
+
 
   const websiteProjects = [
     {
