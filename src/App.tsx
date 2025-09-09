@@ -354,7 +354,7 @@ const portfolioImages = [
                       </div>
                       <div>
                         <p className="font-medium text-gray-900">Email</p>
-                        <p className="text-gray-600">glamorllc@gmail.com</p>
+                        <p className="text-gray-600">glamorcorporation@gmail.com</p>
                       </div>
                     </div>
                     <div className="flex items-center">
@@ -372,7 +372,7 @@ const portfolioImages = [
                       </div>
                       <div>
                         <p className="font-medium text-gray-900">Address</p>
-                        <p className="text-gray-600">Virtual</p>
+                        <p className="text-gray-600">Kahawa Sukari, Ruhan Plaza</p>
                       </div>
                     </div>
                   </div>
